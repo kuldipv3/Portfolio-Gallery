@@ -1,4 +1,4 @@
-# Portfolio Gallery
+# Portfolio Gallery - Changes the portfolio displayed based on keyword in menu bar.
 
 ### Portfolio Gallery is a great web app for adding specialized portfolio gallery, video portfolio gallery of just a gallery with single images.
 
